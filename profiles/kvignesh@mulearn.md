@@ -1,8 +1,10 @@
-# Tomson J Finosh 
+# K Vignesh 
 
-### first year CSE student at mariam Engineering College.hehehehe...
+### About Me
 
-> im a frist year student from Marian engineering college hehehehe x2
+> A B.Tech Computer Science graduate who wishes to enhance skills and grow in a professional work environment. Eager to learn new technologies and leverage them effectively with the goal of becoming a valued contributor in a software team, where I can apply my passion and skills to make a meaningful impact.
+
+Primarly interested in app developement and UI/UX.Some of my technicals skills are Flutter, HTML, CSS, Swift, C
 
 
 ## Portfolio Highlights
@@ -11,12 +13,13 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Lancers             | Currently working on it hehe                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Portfolio             | Almost done                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/ghosthanos/portfolio_site)             |
+| Pacman  |        Currently working on it                                     | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- I really love being a leader of something. from my school days, what all programs and events happens at my school i never participated in ut but i run the program. thats a great experience for me.
+- I have had my small share of leadership experience by leading our team of three for our college projects. From choosing a tech stack, timelines to splitting works, we have been able to complete the projects swiftly.
+
 #### Networking:
 
 - Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
@@ -39,7 +42,7 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- I have a dribble profile where i share my UI works - https://dribbble.com/x_Vignesh_x
 
 #### Highly Used Software Tools:
 
